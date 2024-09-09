@@ -1,0 +1,5 @@
+Python 3.7+
+Streamlit
+Pandas
+Scikit-learn
+Joblib
