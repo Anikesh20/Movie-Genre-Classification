@@ -41,7 +41,7 @@ The Streamlit app provides a simple user interface where users can input a movie
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Anikesh20/Movie-Genre-Classification>
 cd movie-genre-prediction
 
 
